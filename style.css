@@ -26,3 +26,42 @@ body {
 .grayscale {
     filter: grayscale(100%);
 }
+
+.client-name {
+    font-size: 14px;
+    font-weight: 600;
+    color: #23A6F0;
+}
+
+.client-designation {
+    font-size: 14px;
+    font-weight: 600;
+}
+
+.subscribebg {
+    background-color: mistyrose;
+}
+
+.footer-background {
+    background-color: #0B0D17;
+}
+
+.team-name {
+    font-size: 16px;
+    font-weight: 600;
+}
+
+.team-designation {
+    font-size: 14px;
+    font-weight: 600;
+    color: #E76F51;
+    font-style: italic;
+}
+
+.icon-color {
+    color: #E76F51;
+}
+
+.ul-decoration {
+    list-style: none;
+}
