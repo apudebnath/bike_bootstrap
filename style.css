@@ -44,14 +44,23 @@ body {
     height: 150px;
 }
 
+.icon-color {
+    color: #E76F51;
+}
+
+
+/* ====== Freequently asked ========== */
+.accordion-font {
+    font-size: 20px;
+    font-weight: 500;
+    color: #383838;
+}
+
 .subscribebg {
     background-color: mistyrose;
 }
 
-.footer-background {
-    background-color: #0B0D17;
-}
-
+/* ======== Team ========== */
 .team-name {
     font-size: 16px;
     font-weight: 600;
@@ -64,10 +73,6 @@ body {
     font-style: italic;
 }
 
-.icon-color {
-    color: #E76F51;
-}
-
-.ul-decoration {
-    list-style: none;
+.footer-background {
+    background-color: #0B0D17;
 }
