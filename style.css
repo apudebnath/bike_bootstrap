@@ -1,19 +1,21 @@
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;500;600;700&display=swap');
 
-
+/* ========= Common =========== */
 body {
     font-family: 'Poppins', sans-serif;
     box-sizing: border-box;
-}
-
-.background-header {
-    background-color: #264653;
 }
 
 .button-background {
     background-color: #E76F51;
 }
 
+/* ========= Header area ======== */
+.background-header {
+    background-color: #264653;
+}
+
+/* ========= Fetured Bikes =========== */
 .text-color {
     color: #E76F51;
 }
@@ -21,6 +23,15 @@ body {
 .fontsize {
     font-size: 48px;
     font-weight: 600;
+}
+
+.horizontal-line {
+    width: 6%;
+    height: 5px;
+    color: #E76F51;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 6px;
 }
 
 .grayscale {
@@ -39,11 +50,6 @@ body {
     font-weight: 600;
 }
 
-.clientimg {
-    border-radius: 50%;
-    height: 150px;
-}
-
 .icon-color {
     color: #E76F51;
 }
@@ -56,6 +62,7 @@ body {
     color: #383838;
 }
 
+/* ========= Subscribe ========== */
 .subscribebg {
     background-color: mistyrose;
 }
@@ -73,6 +80,7 @@ body {
     font-style: italic;
 }
 
+/* ========= Footer ============ */
 .footer-background {
     background-color: #0B0D17;
 }
